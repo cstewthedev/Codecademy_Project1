@@ -1,0 +1,54 @@
+* {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  
+ 
+}
+
+.description {
+  text-align: left;
+
+}
+
+.title-object *{
+  font-family: Helvetica;
+  text-align: left;
+}
+
+h2 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.title-subject1 {
+  background-color: mediumspringgreen;
+}
+
+.title-subject2 {
+   background-color: lightcoral;
+}
+
+.title-subject3 {
+   background-color: skyblue;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
+
+.title-wrapper {
+  background-image: url("./public/images/pattern.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
